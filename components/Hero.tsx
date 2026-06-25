@@ -142,7 +142,7 @@ export function Hero() {
               <pre className="text-white/90 whitespace-pre-wrap">{`{
   "role":   "Penetration Tester",
   "certs":  ["OSCP","CEH","CRTOM"],
-  "h1_rep": 147,
+  "h1_rep": 1157,
   "h1_rank":"#1 private program",
   "google": "VRP verified",
   "focus":  ["web","android","api"]

@@ -16,7 +16,7 @@ export const profile = {
 };
 
 export const stats = [
-  { value: "147", label: "HackerOne Reputation", suffix: "" },
+  { value: "1157", label: "HackerOne Reputation", suffix: "" },
   { value: "1", label: "Rank on Private Program", prefix: "#" },
   { value: "15", label: "Organizations Disclosed", suffix: "+" },
   { value: "3", label: "Years of Research", suffix: "+" },
@@ -112,7 +112,7 @@ export const bugBounty = [
     points: [
       "Ranked #1 on a private, invite-only program — a trust signal reserved for researchers with a proven, high-quality track record.",
       "Submitted triaged, valid vulnerability reports and earned monetary bounties for confirmed findings on production targets.",
-      "Verified track record: Reputation 147, earned from resolved / accepted reports across public & private programs.",
+      "Verified track record: Reputation 1157 (all-time), earned from resolved / accepted reports across public & private programs.",
     ],
     focus: "BOLA/IDOR · Broken Access Control · Business-logic · Mobile",
   },
@@ -187,7 +187,7 @@ export const experience = [
     period: "2021 — Present",
     points: [
       "Public & private programs across web, API & mobile; #1 on a private invite-only program.",
-      "Triaged valid reports and paid bounties on production targets; HackerOne Reputation 147.",
+      "Triaged valid reports and paid bounties on production targets; HackerOne Reputation 1157 (all-time).",
     ],
   },
   {
